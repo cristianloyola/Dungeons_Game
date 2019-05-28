@@ -8,3 +8,4 @@ Debido a que existen múltiples aplicaciones las cuales, o solo muestran conteni
 Aplicacion especializada y configurable de juegos
 Noticias, Imagenes, Videos, Reseñas y más...
 
+
