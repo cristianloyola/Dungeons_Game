@@ -9,3 +9,5 @@ Aplicacion especializada y configurable de juegos
 Noticias, Imagenes, Videos, Reseñas y más...
 
 
+![imagen intro](https://github.com/cristianloyola/Dungeons_Game/blob/master/introD_G.png)
+
